@@ -1,5 +1,4 @@
 # THP_Projet_J3b
-BetterWebsite Projet J3 Javascript: PopUp(alert/confirm)
 
 
 Bonjour cher administrateur THP, pour le projet J3, j'ai décidé de m'amuser un peu.

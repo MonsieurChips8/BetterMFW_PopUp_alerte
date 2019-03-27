@@ -5,7 +5,7 @@ Bonjour cher administrateur THP, pour le projet J3, j'ai décidé de m'amuser un
 
 J'ai crée 2 versions de la page et dans ce dossier vous aurez la V2:
 
-2. Version avec un pop-up html
+2. Version avec un pop-up de type alerte
 
 
 

@@ -7,6 +7,8 @@ J'ai crée 2 versions de la page et dans ce dossier vous aurez la V2:
 
 2. Version avec un pop-up de type alerte
 
+http://www.jpmagido01.eu
+
 
 
 
